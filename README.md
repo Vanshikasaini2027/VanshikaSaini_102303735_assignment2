@@ -40,6 +40,13 @@ The final output is a smooth PDF curve representing the learned distribution of 
 
 
 
+
+![PDF learned using GAN](assignment2_graph.png)
+
+
+
+
+
 ## Tools Used
  Python
  PyTorch
